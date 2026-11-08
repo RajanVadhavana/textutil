@@ -1,3 +1,3 @@
-module github.com/RajanVadhavana/textutil
+module textutil
 
 go 1.27.2
